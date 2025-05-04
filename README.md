@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 
 
-🔭 I’m currently working on **RSUD Ajibarang**
-🌱 I’m currently learning [**Laravel**](!https://laravel.com/) Framework
+- 🔭 I’m currently working on **RSUD Ajibarang**
+- 🌱 I’m currently learning [**Laravel**](!https://laravel.com/) Framework
 
 #### 🛠️ Teach Stack
 
