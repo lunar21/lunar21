@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! I'm Lunar 👋
 
 <!--
 **lunar21/lunar21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on RSUD Ajibarang 
-- 🌱 I’m currently learning Laravel
+
+
+- 🔭 I’m currently working on **RSUD Ajibarang**
+- 🌱 I’m currently learning [**Laravel**](!https://laravel.com/) Framework
+
+#### Skills
+
+<img src="{https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white}" />
