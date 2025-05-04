@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on RSUD Ajibarang 
-🌱 I’m currently learning Laravel
+- 🔭 I’m currently working on RSUD Ajibarang 
+- 🌱 I’m currently learning Laravel
